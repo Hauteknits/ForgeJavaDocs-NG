@@ -11,4 +11,4 @@
 
 CLI arguments used to generate javadocs `-encoding utf8 -docencoding utf8 -charset utf8 -windowtitle "forge 1.16.5-36.1.2" -doctitle "forge 1.16.5-36.1.2"`
 
-For previous versions refer to [skmedix/ForgeJavaDocs](https://skmedix.github.io/ForgeJavaDocs/)
+For pervious versions refer to [skmedix/ForgeJavaDocs](https://skmedix.github.io/ForgeJavaDocs/)
