@@ -11,3 +11,5 @@ For more updated versions, refer to [Nekoyue/ForgeJavaDocs-NG](https://github.co
 
 
 HUUUUUUGE thanks to [Nekoyue](https://github.com/Nekoyue). This would not be possible without their work
+
+This was forked bc I needed the 1.16.1 javadocs, and couldn't seem to find them on any active webpage 🙃
